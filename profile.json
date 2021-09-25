@@ -1,7 +1,7 @@
  [
   {
     "id": 1,
-    "name": "James Robert",
+    "Name": "James Robert",
     "Age": 24,
     "Skills": "HTML,CSS,JS,React,Nodejs",
     "Education": "BSC",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "John Thomas",
+    "Name": "John Thomas",
     "Age": 26,
     "Skills": "HTML,CSS,Python",
     "Education": "HSC",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "name": "Richard Charles",
+    "Name": "Richard Charles",
     "Age": 21,
     "Skills": "HTML,CSS,JS,React,Vue",
     "Education": "SSC",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "name": "Matthew Anthony",
+    "Name": "Matthew Anthony",
     "Age": 25,
     "Skills": "HTML,CSS,JS,React,Angular",
     "Education": "BSC",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "name": "Steven Andrew",
+    "Name": "Steven Andrew",
     "Age": 35,
     "Skills": "HTML,CSS,JS,Nodejs,Python",
     "Education": "CSE",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "name": "Joshua Kenneth",
+    "Name": "Joshua Kenneth",
     "Age": 25,
     "Skills": "HTML,CSS,JS,React,Java",
     "Education": "JSC",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "name": "George Ronald",
+    "Name": "George Ronald",
     "Age": 21,
     "Skills": "HTML,CSS,JS,Laravel",
     "Education": "PHD",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "name": "Timothy Jason",
+    "Name": "Timothy Jason",
     "Age": 18,
     "Skills": "HTML,CSS,JS,React,C",
     "Education": "BSC",
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "name": "Jacob Gary",
+    "Name": "Jacob Gary",
     "Age": 19,
     "Skills": "HTML,CSS,JS,Java",
     "Education": "BSC",
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "name": "Eric Stephen",
+    "Name": "Eric Stephen",
     "Age": 18,
     "Skills": "HTML,CSS,JS,React,Python",
     "Education": "BSC",
@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "name": "Brandon Samuel",
+    "Name": "Brandon Samuel",
     "Age": 36,
     "Skills": "HTML,CSS,JS,Nodejs",
     "Education": "BSC",
@@ -97,7 +97,7 @@
   },
   {
     "id": 13,
-    "name": "Nathan Zachary",
+    "Name": "Nathan Zachary",
     "Age": 33,
     "Skills": "HTML,CSS,JS,Go",
     "Education": "Diploma",
@@ -105,7 +105,7 @@
   },
   {
     "id": 14,
-    "name": "Elon Gray",
+    "Name": "Elon Gray",
     "Age": 21,
     "Skills": "HTML,CSS,JS,React,Fortan",
     "Education": "HSC",
@@ -113,7 +113,7 @@
   },
   {
     "id": 15,
-    "name": "Peter Jetro",
+    "Name": "Peter Jetro",
     "Age": 32,
     "Skills": "HTML,CSS,JS,React,Swift",
     "Education": "CSE",
@@ -121,7 +121,7 @@
   },
   {
     "id": 16,
-    "name": "Jyle John",
+    "Name": "Jyle John",
     "Age": 41,
     "Skills": "HTML,CSS,JS,Prolog",
     "Education": "HSC",
@@ -129,7 +129,7 @@
   },
   {
     "id": 17,
-    "name": "Jose Samuel",
+    "Name": "Jose Samuel",
     "Age": 26,
     "Skills": "HTML,CSS,JS,React,Perl",
     "Education": "HSC",
