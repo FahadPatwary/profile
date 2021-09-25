@@ -89,7 +89,7 @@
   },
   {
     "id": 12,
-    "name": "Frank Jerry",
+    "Name": "Frank Jerry",
     "Age": 27,
     "Skills": "HTML,CSS,JS,React,Ruby",
     "Education": "HSC",
