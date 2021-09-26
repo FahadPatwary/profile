@@ -1,7 +1,7 @@
 [
     {
       id: 1,
-      Profile: "https://fahadpatwary.github.io/profile/One.png",
+      Img: "https://fahadpatwary.github.io/Img/One.png",
       Name: "James Robert",
       Age: 24,
       Skills: "HTML,CSS,JS,React,Nodejs",
@@ -10,7 +10,7 @@
     },
     {
       id: 2,
-      Profile: "https://fahadpatwary.github.io/profile/Two.png",
+      Img: "https://fahadpatwary.github.io/Img/Two.png",
       Name: "John Thomas",
       Age: 26,
       Skills: "HTML,CSS,Python",
@@ -19,7 +19,7 @@
     },
     {
       id: 3,
-      Profile: "https://fahadpatwary.github.io/profile/Three.png",
+      Img: "https://fahadpatwary.github.io/Img/Three.png",
       Name: "Richard Charles",
       Age: 21,
       Skills: "HTML,CSS,JS,React,Vue",
@@ -28,7 +28,7 @@
     },
     {
       id: 4,
-      Profile: "https://fahadpatwary.github.io/profile/Four.png",
+      Img: "https://fahadpatwary.github.io/Img/Four.png",
       Name: "Matthew Anthony",
       Age: 25,
       Skills: "HTML,CSS,JS,React,Angular",
@@ -37,7 +37,7 @@
     },
     {
       id: 5,
-      Profile: "https://fahadpatwary.github.io/profile/Five.png",
+      Img: "https://fahadpatwary.github.io/Img/Five.png",
       Name: "Steven Andrew",
       Age: 35,
       Skills: "HTML,CSS,JS,Nodejs,Python",
@@ -46,7 +46,7 @@
     },
     {
       id: 6,
-      Profile: "https://fahadpatwary.github.io/profile/Six.png",
+      Img: "https://fahadpatwary.github.io/Img/Six.png",
       Name: "Joshua Kenneth",
       Age: 25,
       Skills: "HTML,CSS,JS,React,Java",
@@ -55,7 +55,7 @@
     },
     {
       id: 7,
-      Profile: "https://fahadpatwary.github.io/profile/Seven.png",
+      Img: "https://fahadpatwary.github.io/Img/Seven.png",
       Name: "George Ronald",
       Age: 21,
       Skills: "HTML,CSS,JS,Laravel",
@@ -64,7 +64,7 @@
     },
     {
       id: 8,
-      Profile: "https://fahadpatwary.github.io/profile/Eight.png",
+      Img: "https://fahadpatwary.github.io/Img/Eight.png",
       Name: "Timothy Jason",
       Age: 18,
       Skills: "HTML,CSS,JS,React,C",
@@ -73,7 +73,7 @@
     },
     {
       id: 9,
-      Profile: "https://fahadpatwary.github.io/profile/Nine.png",
+      Img: "https://fahadpatwary.github.io/Img/Nine.png",
       Name: "Jacob Gary",
       Age: 19,
       Skills: "HTML,CSS,JS,Java",
@@ -82,7 +82,7 @@
     },
     {
       id: 10,
-      Profile: "https://fahadpatwary.github.io/profile/Ten.png",
+      Img: "https://fahadpatwary.github.io/Img/Ten.png",
       Name: "Eric Stephen",
       Age: 18,
       Skills: "HTML,CSS,JS,React,Python",
@@ -91,7 +91,7 @@
     },
     {
       id: 11,
-      Profile: "https://fahadpatwary.github.io/profile/Eleven.png",
+      Img: "https://fahadpatwary.github.io/Img/Eleven.png",
       Name: "Brandon Samuel",
       Age: 36,
       Skills: "HTML,CSS,JS,Nodejs",
@@ -100,7 +100,7 @@
     },
     {
       id: 12,
-      Profile: "https://fahadpatwary.github.io/profile/Twelve.png",
+      Img: "https://fahadpatwary.github.io/Img/Twelve.png",
       Name: "Frank Jerry",
       Age: 27,
       Skills: "HTML,CSS,JS,React,Ruby",
@@ -109,7 +109,7 @@
     },
     {
       id: 13,
-      Profile: "https://fahadpatwary.github.io/profile/Thirteen.png",
+      Img: "https://fahadpatwary.github.io/Img/Thirteen.png",
       Name: "Nathan Zachary",
       Age: 33,
       Skills: "HTML,CSS,JS,Go",
@@ -118,7 +118,7 @@
     },
     {
       id: 14,
-      Profile: "https://fahadpatwary.github.io/profile/Forteen.png",
+      Img: "https://fahadpatwary.github.io/Img/Forteen.png",
       Name: "Elon Gray",
       Age: 21,
       Skills: "HTML,CSS,JS,React,Fortan",
@@ -127,7 +127,7 @@
     },
     {
       id: 15,
-      Profile: "https://fahadpatwary.github.io/profile/Fifeteen.png",
+      Img: "https://fahadpatwary.github.io/Img/Fifeteen.png",
       Name: "Peter Jetro",
       Age: 32,
       Skills: "HTML,CSS,JS,React,Swift",
@@ -136,7 +136,7 @@
     },
     {
       id: 16,
-      Profile: "https://fahadpatwary.github.io/profile/Sixteen.png",
+      Img: "https://fahadpatwary.github.io/Img/Sixteen.png",
       Name: "Jyle John",
       Age: 41,
       Skills: "HTML,CSS,JS,Prolog",
@@ -145,7 +145,7 @@
     },
     {
       id: 17,
-      Profile: "https://fahadpatwary.github.io/profile/Seventeen.png",
+      Img: "https://fahadpatwary.github.io/Img/Seventeen.png",
       Name: "Jose Samuel",
       Age: 26,
       Skills: "HTML,CSS,JS,React,Perl",
