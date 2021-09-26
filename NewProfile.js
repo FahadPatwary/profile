@@ -1,7 +1,6 @@
 [
     {
       id: 1,
-      Profile: One.png,
       Name: "James Robert",
       Age: 24,
       Skills: "HTML,CSS,JS,React,Nodejs",
